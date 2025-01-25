@@ -31,6 +31,7 @@ const Layout = () => {
       <Outlet />
       {/* footer */}
       <Footer />
+      {/* footer bottom */}
       <FooterBottom />
     </div>
   );
